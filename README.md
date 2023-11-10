@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/mitesh77/Best-Flutter-UI-Templates/raw/master/best_flutter_ui_templates/assets/introduction_animation/introduction_animation.png
+![Large Screen](https://github.com/mitesh77/Best-Flutter-UI-Templates/raw/master/best_flutter_ui_templates/assets/introduction_animation/introduction_animation.png)
